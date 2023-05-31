@@ -45,8 +45,8 @@ Make sure to open a pull request so the code can be reviewed.
 
 
 ## Contact
+[LinkedIn](www.linkedin.com](https://no.linkedin.com/in/helena-lokkeberg-3501351a9)
 
-[My LinkedIn page](www.linkedin.com](https://no.linkedin.com/in/helena-lokkeberg-3501351a9)
 
 
 # Portfolio 2 Assignment from Noroff
