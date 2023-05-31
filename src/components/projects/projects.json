@@ -1,0 +1,30 @@
+[
+        {
+            "id": 1,
+            "name": "Project exam 2",
+            "projectDescription": "The task was to create a new design for an already existing social media.",
+            "language": "Javascript React HTML CSS Netlify Github Git Yup Formik Bootstrap",
+            "projectImage": "/assets/images/exam-2.png",
+            "projectGithub": "https://github.com/Noroff-FEU-Assignments/project-exam-2-hhummus",
+            "projectLiveSite": "https://projext-exam-2-hhummus.netlify.app/"
+        },
+        {
+            "id": 2,
+            "name": "Semester project CA",
+            "projectDescription": "To create a QA website where you ask questions about coding issues.",
+            "language": "Javascript, React, Bootstrap, Netlify",
+            "projectImage": "/assets/images/semester-project.png",
+            "projectGithub": "https://github.com/hhummus/codeplet",
+            "projectLiveSite": "http://www.hlna.one/codeplet/"
+        },
+         {
+            "id": 3,
+            "name": "Javascript Frameworks CA",
+            "projectDescription": "To apply knowledge of React to build an eCom store.",
+            "language": "Javascript React HTML CSS Github Git Yup Formik  Bootstrap",
+            "projectImage": "/assets/images/js-frameworks.png",
+            "projectGithub": "https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-hhummus",
+            "projectLiveSite": ""
+         }
+    ]
+    

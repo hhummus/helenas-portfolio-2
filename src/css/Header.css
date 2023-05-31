@@ -1,0 +1,45 @@
+#header {
+    background-color: #0F172A;
+    text-align: left;
+    padding: 2rem 0 8rem 0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.headerTitle {
+    color: #E2E8F0;
+    font-size: 28px;
+}
+
+.headerSubTitle {
+    color: #94A3B8;
+    font-size: 16px;
+}
+
+.titleSubStitle {
+    padding: 0 0 4rem 2rem;
+    line-height: 0.8rem;
+}
+
+.headerIntroBlock {
+    display: block;
+}
+#header p {
+    padding: 0 0 0 2rem;
+    color: #94A3B8;
+}
+
+.correctClick{
+text-decoration: none;
+}
+
+.fakeClick, 
+.correctClick,
+.headerIntroColor {
+    color: #E2E8F0;
+}
+
+.fakeClick,
+.correctClick {
+    cursor: pointer;
+}
+

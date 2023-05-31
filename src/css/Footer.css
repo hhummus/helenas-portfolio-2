@@ -1,0 +1,21 @@
+.footer {
+    margin-top: 4rem;
+    background-color: #0F172A;
+    text-align: left;
+    padding: 2rem 0 8rem 0;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+
+.footerInfo {
+    color: #94A3B8;
+    padding: 0 0 4rem 2rem;
+}
+
+.footerLinks a {
+    text-decoration: none;
+    color: #F9FAFC;
+    padding: 0 0 0 2rem;
+    display: block;
+    cursor: pointer;
+}

@@ -1,0 +1,85 @@
+#info {
+    margin-top: 4rem;
+    padding: 2rem 2rem 0 2rem;
+    text-align: left;
+}
+
+#info .container {
+    margin: 0;
+    padding: 0;
+}
+
+#info .sectionTitle{
+    padding: 0 1rem 0 4rem;
+    border-bottom: 2px solid #0F172A;
+    display: inline-flex;
+   
+}
+
+#info .sectionTitle h3 {
+    font-size: 18px;
+    width: fit-content;
+    cursor: pointer;
+}
+
+.about {
+    padding-right: 1.5rem;
+}
+
+#info .sectionDescription {
+    font-weight: 500;
+    padding: 1rem 0;
+    font-size: 12px;
+}
+#info .row {
+    align-items: baseline;
+}
+
+
+.infoContent{
+    flex-basis: auto;
+}
+.infoContent .card {
+    background-color: #E2E8F0;
+}
+
+.infoContent label, 
+ .sendEmail {
+    display: block;
+}
+
+.infoContent input {
+    border: none;
+    padding: 0.5rem 0;
+    margin: 0 0 1rem 0;
+    width: inherit;
+    width: -webkit-fill-available;
+}
+
+
+.sendEmail {
+    border: none;
+    background-color: #94A3B8;
+    color: #E2E8F0;
+    padding: 0.5rem 0;
+    width: -webkit-fill-available;
+}
+@media only screen and (min-width: 768px) {
+
+    #info .sectionTitle {
+        display: block;
+        border-bottom: none;
+        padding: 0;
+    }
+
+    #info .sectionTitle h3 {
+        border-bottom: 2px solid #0F172A;
+        padding: 0 1rem 0 4rem;
+    }
+    .d-block {
+        display: flex!important;
+    }
+    .infoContent {
+        flex-basis: 0;
+    }
+}
